@@ -14,5 +14,5 @@ def arrange_elements(nums):
             right-=1
     return nums
 nums = list(map(int,input().split()))
-print(arrange_elements(nums))
+print(arrange_elements(nums)) 
         
